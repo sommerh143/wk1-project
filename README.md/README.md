@@ -13,6 +13,9 @@ _{When you first open up the website it showes you the projects i have worked on
 * open page and click the links that are set up.
 * will  have to use the back button to go back to home page.
 
+## GH Pages Link
+https://sommerh143.github.io/wk1-Friday-project/
+
 ## Known Bugs
 
 _{curently no issues, would like to make it look better but that will take time. }_
